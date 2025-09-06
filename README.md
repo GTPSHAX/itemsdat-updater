@@ -71,5 +71,5 @@ If you would like to improve this project, feel free to fork the repository and 
 
 ## Support
 
-If you encounter any issues or have questions, please [open an issue](./issues).
+If you encounter any issues or have questions, please [open an issue](../../issues).
 Your feedback helps make this project better.
